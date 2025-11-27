@@ -1,24 +1,30 @@
-# ¡Hola, soy Gonzalo Mansera Ruiz! 👋
+### Hi, I’m Gonzalo Mansera Ruiz 👋
 
-## 👨‍💻 Acerca de mí
+💻 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con el objetivo profesional de convertirme en **Full-Stack Developer**.  
+Me apasiona el desarrollo de software, el diseño de aplicaciones web eficientes y el aprendizaje continuo de nuevas tecnologías.  
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la programación y la creación de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades para desarrollar soluciones innovadoras. Actualmente, estoy enfocándome en **Java** y **SQL**, pero también me interesa **PHP. C++ etc..** y cómo mejorar la experiencia de usuario.
+Actualmente estoy profundizando en **JavaScript**, **TypeScript**, **PHP**, **Symfony**, **React**, **Python**, **Java** y **SQL**, construyendo proyectos que integren tanto la parte **frontend** como el **backend**.
 
+---
 
-## 🚀 Habilidades y Tecnologías
+### 🧑‍💻 About Me
 
-- 🌱 Estoy aprendiendo **Java** y **Bases de Datos SQL**.
-- 💻 Conocimiento en **HTML**, **CSS**, **Java**,.
-- 🔧 Herramientas que uso: **VS Code**, **Git**, **Docker**.
-
-## 🔗 Conecta conmigo
-
-- [LinkedIn](https://www.linkedin.com/in/gonzalo-mansera-603836325/)
-- [Twitter](https://x.com/ManseraRuiz)
-- [GitHub](https://github.com/gonzalomansera/)
-
-
-## 📬 ¿Cómo contactar conmigo?
-
-Puedes enviarme un mensaje a través de [mi correo electrónico](mailto:gonzalomansera38@gmail.com) o dejar un comentario en mis repositorios.
-
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   role: "Future Full-Stack Developer",
+   code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Java", "SQL", "Python"],
+   technologies: {
+      frontEnd: {
+         frameworks: ["React ⚛️"],
+         basics: ["HTML 🧱", "CSS 🎨", "JavaScript 🌐", "TypeScript 🔷"]
+      },
+      backEnd: {
+         languages: ["Java ☕", "PHP 🐘", "Python 🐍", "SQL 🗄️"],
+         frameworks: ["Symfony 🏛️"],
+         misc: ["Git 🔧", "Docker 🐳"]
+      }
+   },
+   currentOccupation: ["🎓 DAW Student | Aspiring Full-Stack Developer"],
+   challenge: "🚀 Convertirme en Full-Stack, construir proyectos sólidos y mejorar cada día."
+}
