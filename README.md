@@ -44,3 +44,8 @@ const aboutMe = {
    currentOccupation: ["🎓 DAW Student | Aspiring Full-Stack Developer"],
    challenge: "🚀 Convertirme en Full-Stack, construir proyectos sólidos y mejorar cada día."
 }
+
+```
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=gonzalomansera&show_icons=true&theme=dark&hide_border=true)
