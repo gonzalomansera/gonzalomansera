@@ -6,7 +6,7 @@ Me apasiona el desarrollo de software, el diseño de aplicaciones web eficientes
 Actualmente estoy profundizando en **JavaScript**, **TypeScript**, **PHP**, **Symfony**, **React**, **Python**, **Java** y **SQL**, construyendo proyectos que integren tanto la parte **frontend** como el **backend**.
 
 <a href="[https://github.com/gonzalomansera](https://x.com/ManseraRuiz)" target="_blank">
-    <img align="center" src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" 
+    <img align="center" src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
          alt="ManseraRuiz" height="30" width="40" />
 </a>
 &nbsp;
