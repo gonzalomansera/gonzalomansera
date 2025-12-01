@@ -5,6 +5,26 @@ Me apasiona el desarrollo de software, el diseño de aplicaciones web eficientes
 
 Actualmente estoy profundizando en **JavaScript**, **TypeScript**, **PHP**, **Symfony**, **React**, **Python**, **Java** y **SQL**, construyendo proyectos que integren tanto la parte **frontend** como el **backend**.
 
+<a href="https://github.com/gonzalomansera" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+         alt="gonzalomansera" height="30" width="40" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gonzalo-mansera-603836325/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="gonzalo-mansera" height="30" width="40" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/gnzalo.mnsera/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="gnzalo.mnsera" height="30" width="40" />
+</a>
+&nbsp;
+<a href="[https://twitter.com/ManseraRuiz](https://x.com/ManseraRuiz)" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="ManseraRuiz" height="30" width="40" />
+</a>
+
 ---
 
 ### 🧑‍💻 About Me
