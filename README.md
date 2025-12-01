@@ -19,11 +19,7 @@ Actualmente estoy profundizando en **JavaScript**, **TypeScript**, **PHP**, **Sy
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
          alt="gnzalo.mnsera" height="30" width="40" />
 </a>
-&nbsp;
-<a href="[https://twitter.com/ManseraRuiz](https://x.com/ManseraRuiz)" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-         alt="ManseraRuiz" height="30" width="40" />
-</a>
+
 
 ---
 
